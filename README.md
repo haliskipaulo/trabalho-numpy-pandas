@@ -1,3 +1,3 @@
 # trabalho-numpy-pandas
-Nathan Henrique
-Paulo Haliski
+<p>Nathan Henrique</p>
+<p>Paulo Haliski</p>
